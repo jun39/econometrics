@@ -8,8 +8,6 @@ goldcash<-read.csv()
 Sheet<-read.csv()
 #価格と日付だけでベクトルに治す
 
-
-
 install.packages("tidyr")
 install.packages("base R")
 install.packages("tidyverse")
